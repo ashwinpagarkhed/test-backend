@@ -1,0 +1,8 @@
+Flask
+textblob
+flask_cors
+requests
+redis
+rejson
+timeloop
+pymongo
